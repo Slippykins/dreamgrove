@@ -1,0 +1,45 @@
+---
+date: '2018-06-14'
+authors: ["Slippykins"]
+published: false
+title: Dreamgrove Beta Key Giveaway -- Results Summary
+---
+
+//edit above as necessary
+
+
+With the Dreamgrove Beta Key Giveaway concluded, many players called for a comprehensive summary of the quiz, including in-depth statistics and a clear analysis of the results.
+
+This is what I wanted to say, but to be honest, I am drowning in the "@Slippykins quiz score WHEN???" pings. Maybe we can get Warden to do that, in pursuit of efficiency.
+
+Regardless, here's the results summary for the Dreamgrove Giveaway quiz! At the bottom of the post is the full results sheet per player, so you can see the score you and your friends got, as well as the answers you selected.
+
+For now, let's start with the top-level statistics, and follow up with the question-by-question results.
+
+## Overall Results ##
+
+There were 436 entries to the quiz, with scores ranging from a measly 1 (Athaw trying his best) up to 10 entrants getting perfect scores. 16 questions stood between each contestant and their lofty prize of a Battle for Azeroth Beta key, with some questions seeming too easy ("True or False: You can pick herbs while in flight form."), to others where only 8.9% got it correct ("Since what expansion has Blizzard been talking about updated Boomkin forms?").
+
+In total, the results were pleasing. The average score was 11.74, just short of the median of 12, implying there was a negative skew to the data. This can easily be seen in the following graph:
+
+[Imgur](https://i.imgur.com/pewiHXg.png)
+
+The red line superimposed over the results graph is a **skew-t** distribution, with parameters {{< tex "$\mu = 14.37, \omega = 3.92, \alpha = -5, \nu = 14$">}}. The skewness is shown in the {{< tex "$\alpha$">}} parameter, with a clear negative sign, indicating the negative skew. One such explanation for this result is that the test had a good amount of easy questions -- which was definitely the case. 11 out of the 16 questions were correctly answered over 75% of the time, while only 2 questions had a correct answer rate under 50% (for the questions worth 1 point, anyway). This bias clearly pushed results upward, and resulted in the nice slant to the curve.
+
+Following on, here are the questions with the lowest correct response rate:
+
+[puush](https://puu.sh/AF3Qf/eb2ca7f8c2.png)
+
+Note that three of these were the questions worth no points ("What is Slippykins' cat called?", "Since what expansion has blizzard been talking about updated Boomkin forms?", and "What kind of wood are Resto Druids made out of?"). I had originally meant for the Boomkin form question to be a real question (answer was Wrath of the Lich King), but then over 50% of respondents said the current form was perfect and how could I really disagree with that.
+
+(I can disagree, actually. The Zandalari chicken forms are **b a d a s s**.)
+
+And to those of you wondering -- my cat's name is Pixel, not Meowykins. Though, Hank does suit her sometimes.
+
+## Answers and Response Distribution ##
+
+If you're interested in what the correct answers to all the questions were, look no further! In this section, you will also be able to see how *other* people answered in aggregate. You might be surprised!
+
+[starfall](https://puu.sh/AF3ZK/5ef766de2c.png)
+
+[guardian](https://puu.sh/AF40k/dd2e43e004.png)
